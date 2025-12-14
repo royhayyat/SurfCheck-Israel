@@ -5,9 +5,7 @@
 
 ### 👇 רוצים לראות את האפליקציה עובדת? 👇
 האפליקציה נבנתה ב-React Native וניתן להריץ אותה ישירות בדפדפן:
-
-# [👉 לחצו כאן להפעלת האפליקציה (Live Demo) 👈]https://snack.expo.dev/@zamirh66/tahazit-galim 
-
+https://snack.expo.dev/embedded/@zamirh66/tahazit-galim?preview=true&platform=web&theme=light
 ---
 
 ## ✨ פיצ'רים מרכזיים
