@@ -6,7 +6,7 @@
 ### 👇 רוצים לראות את האפליקציה עובדת? 👇
 האפליקציה נבנתה ב-React Native וניתן להריץ אותה ישירות בדפדפן:
 
-# [👉 לחצו כאן להפעלת האפליקציה (Live Demo) 👈](https://snack.expo.dev/@zamirh66/tahazit-galim)
+# [👉 לחצו כאן להפעלת האפליקציה (Live Demo) 👈]https://snack.expo.dev/@zamirh66/tahazit-galim 
 
 ---
 
